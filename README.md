@@ -37,7 +37,7 @@ Some uses of a keylogger are:
 #### Usage
 
 ##### **Quick start**
-1. `git clone https://github.com/jaspreet604/python-keylogger`
+1. `git clone https://github.com/simar437/Keylogger`
 2. `cd python-keylogger`
 3. Customize parameters in Start.py: url_server_upload, hidden_service_check_connection.
 ###### **Run as a Python script**
